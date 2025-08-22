@@ -84,7 +84,7 @@ if USE_LOCALHOST:
 else:
     REPO_URL = (
         r"https://cdn.jsdelivr.net/gh/"
-        r"heavenly-hostas-hosting/HHH@data/"
+        r"Matiiss/HHH-deploy@data/"
     )
 
 
